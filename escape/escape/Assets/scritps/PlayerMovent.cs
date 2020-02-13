@@ -54,12 +54,12 @@ public class PlayerMovent : MonoBehaviour
         {
             if(isGrounded)
             {
-                velocity.y = Mathf.Sqrt(jumpHeight * -2 * gravity);
+                velocity.y = Mathf.Sqrt(jumpHeight * -2 * gravity) * 2;
             }
             else{
                 if(doubleJump) //doubled the height of the second jump for super jump 
                 {
-                    velocity.y = Mathf.Sqrt(jumpHeight * -2 * gravity) * 2;
+                    velocity.y = Mathf.Sqrt(jumpHeight * -2 * gravity) * 3;
                     doubleJump = false;
                 }
             }
