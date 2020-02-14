@@ -30,7 +30,24 @@ public class enemyController : MonoBehaviour
                 FaceTarget();
             }
         }
-    }
+
+        //enemy chase code inserted below
+        //expect errors
+        // if (Vector3.Distance(transform.position, Player.position) >= MinDist)
+       // {
+
+            //transform.position += transform.forward * MoveSpeed * Time.deltaTime;
+
+
+
+            //if (Vector3.Distance(transform.position, Player.position) <= MaxDist)
+            //{
+                //Here Call any function U want Like Shoot at here or something
+            //}
+
+        }
+
+    
 
     void FaceTarget()
     {
