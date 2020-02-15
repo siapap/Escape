@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 685, y: 494}
   m_MaxSize: {x: 14006, y: 14044}
   vertical: 0
-  controlID: 57
+  controlID: 126
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 63
+  controlID: 57
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 64
+  controlID: 58
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,20 +337,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/scritps
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/scritps
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Josh\Documents\GitHub\Escape\escape\escape
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 69.73913}
-    m_SelectedIDs: 082e0000
-    m_LastClickedID: 11784
-    m_ExpandedIDs: 000000009c2c0000a0440000a244000000ca9a3b
+    scrollPos: {x: 0, y: 55}
+    m_SelectedIDs: 46390000
+    m_LastClickedID: 14662
+    m_ExpandedIDs: 0000000046390000c03a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009c2c0000
+    m_ExpandedIDs: 0000000046390000c03a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,9 +499,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: b0a1ffff28a2ffff1ea3ffff50f8ffff7afbfffff02f00006a300000e245000098460000104700007047000088470000
+      m_SelectedIDs: 363d0000
+      m_LastClickedID: 15670
+      m_ExpandedIDs: 22cfffff6cf2ffff563c0000963c0000783d0000903d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -561,9 +561,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -11.528243, y: 4.5212197, z: -98.21135}
+    m_Target: {x: -36.05317, y: 136.09964, z: -274.9928}
     speed: 2
-    m_Value: {x: -11.528243, y: 4.5212197, z: -98.21135}
+    m_Value: {x: -36.05317, y: 136.09964, z: -274.9928}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.057185628, y: -0.943076, z: 0.22353838, w: -0.24001975}
+    m_Target: {x: -0.059045658, y: -0.9411371, z: 0.2443804, w: -0.22666207}
     speed: 2
-    m_Value: {x: -0.05717872, y: -0.94296217, z: 0.2235114, w: -0.23999077}
+    m_Value: {x: -0.05903613, y: -0.9409852, z: 0.24434096, w: -0.22662549}
   m_Size:
-    m_Target: 243.33803
+    m_Target: 549.3703
     speed: 2
-    m_Value: 243.33803
+    m_Value: 549.3703
   m_Ortho:
     m_Target: 0
     speed: 2
