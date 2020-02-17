@@ -23,7 +23,7 @@ public class automaticDoor : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        door.SetTrigger("OpenDoor");
+        door.SetTrigger("DoorOpen");
     }
 
     void OnTriggerExit(Collider other)

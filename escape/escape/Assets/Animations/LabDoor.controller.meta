@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:escape/escape/Assets/Animations/LabDoor.controller.meta
-guid: 020332e55c1259c42abc76803621ffe8
-=======
-guid: 4de1a52d50ee29a40bd48700cfd59cc4
->>>>>>> 526e65b34f0fdf7f290c618c156a552a87c3b180:escape/escape/Assets/Beacon_Light/3dobjects_FBX/Alarm Light.controller.meta
+guid: 5fe26f22de6724e45be0b64035c6b478
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000
