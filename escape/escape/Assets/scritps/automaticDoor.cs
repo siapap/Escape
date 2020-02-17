@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class automaticDoor : MonoBehaviour
 {
-    private Animator door;
+    Animator door;
 
     
     void Start()
