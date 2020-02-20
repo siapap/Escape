@@ -6,9 +6,14 @@ public class PlayerMovent : MonoBehaviour
 {
     public CharacterController controller;
 
+    GameController gameController;
+
     public float speed = 12f;
     public float gravity = -9.81f;
     public float jumpHeight = 2;
+
+    public bool canMove;
+    public bool detectCollision;
 
     //jump twice
     private bool doubleJump; // probably doesnt have to be private but what the hell 
@@ -22,7 +27,7 @@ public class PlayerMovent : MonoBehaviour
 
     void Start()
     {
-        
+        canMove = true;  
     }
 
     // Update is called once per frame
@@ -69,5 +74,13 @@ public class PlayerMovent : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
         //multiple gravity twice acording to formula 
         controller.Move(velocity * Time.deltaTime);
+    }
+    //conditions and other
+    void Death()
+    {
+        //add audio later
+        //audioSource.Stop();
+        //audioSource.PlayOneShot(dead);
+        gameController.LoseCondition();
     }
 }
