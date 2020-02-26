@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44873577, g: 0.4987896, b: 0.5756864, a: 1}
+  m_IndirectSpecularColor: {r: 0.4487353, g: 0.498789, b: 0.57568526, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3064,7 +3064,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 875355294}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c5a49f1023480b429f63ab5c90b7331, type: 3}
   m_Name: 
@@ -4432,6 +4432,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Room2_wall1
       objectReference: {fileID: 0}
+    - target: {fileID: 3824346836702870957, guid: 9f8d617eff863a145b1f964d302df37d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -654177004129397245, guid: 9f8d617eff863a145b1f964d302df37d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -6932282163031943772, guid: 9f8d617eff863a145b1f964d302df37d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9f8d617eff863a145b1f964d302df37d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4702,11 +4717,6 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: -6932282163031943772, guid: 9f8d617eff863a145b1f964d302df37d,
-        type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: -6621007353805532330, guid: 9f8d617eff863a145b1f964d302df37d,
         type: 3}
       propertyPath: m_Layer
@@ -4797,11 +4807,6 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: -654177004129397245, guid: 9f8d617eff863a145b1f964d302df37d,
-        type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: -32130022435814926, guid: 9f8d617eff863a145b1f964d302df37d,
         type: 3}
       propertyPath: m_Layer
@@ -4838,11 +4843,6 @@ PrefabInstance:
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3796697964945764045, guid: 9f8d617eff863a145b1f964d302df37d,
-        type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3824346836702870957, guid: 9f8d617eff863a145b1f964d302df37d,
         type: 3}
       propertyPath: m_Layer
       value: 10
@@ -7865,7 +7865,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2014668835}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -71, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 171067536}
