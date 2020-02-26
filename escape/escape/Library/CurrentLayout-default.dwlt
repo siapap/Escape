@@ -15,15 +15,21 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 7.2000003
     y: 50.4
     width: 1521.6
     height: 766.4
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     x: 6.5
     y: 48.5
     width: 1487
     height: 781
+<<<<<<< HEAD
+>>>>>>> parent of 3f658c9... updated touchups
+=======
 >>>>>>> parent of 3f658c9... updated touchups
   m_ShowMode: 4
   m_Title: 
@@ -72,9 +78,12 @@ MonoBehaviour:
     x: 210
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1035
     height: 445
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     width: 492
     height: 454
 >>>>>>> parent of 3f658c9... updated touchups
@@ -141,6 +150,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1237
     y: 0
     width: 285
@@ -150,6 +160,10 @@ MonoBehaviour:
 =======
     x: 1208
     y: 0
+=======
+    x: 1208
+    y: 0
+>>>>>>> parent of 3f658c9... updated touchups
     width: 279
     height: 731
   m_MinSize: {x: 277, y: 72}
@@ -179,9 +193,12 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 202
     height: 445
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     width: 210
     height: 454
 >>>>>>> parent of 3f658c9... updated touchups
@@ -246,10 +263,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1522
     height: 767
   m_MinSize: {x: 950, y: 544}
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     width: 1487
     height: 781
   m_MinSize: {x: 950, y: 300}
@@ -273,7 +293,11 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1522
+=======
+    width: 1487
+>>>>>>> parent of 3f658c9... updated touchups
 =======
     width: 1487
 >>>>>>> parent of 3f658c9... updated touchups
@@ -303,6 +327,9 @@ MonoBehaviour:
 =======
     y: 761
     width: 1487
+<<<<<<< HEAD
+>>>>>>> parent of 3f658c9... updated touchups
+=======
 >>>>>>> parent of 3f658c9... updated touchups
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -327,6 +354,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1237
     height: 717
   m_MinSize: {x: 406, y: 494}
@@ -335,6 +363,8 @@ MonoBehaviour:
   controlID: 62
 --- !u!114 &12
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     width: 1208
     height: 731
   m_MinSize: {x: 610, y: 494}
@@ -362,6 +392,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1237
     height: 445
   m_MinSize: {x: 406, y: 222}
@@ -369,6 +400,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 63
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     width: 1208
     height: 454
   m_MinSize: {x: 610, y: 222}
@@ -426,23 +459,32 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 202.40001
     y: 73.6
     width: 1044
     height: 440
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     x: 300
     y: 80.8
     width: 510
     height: 423
+<<<<<<< HEAD
+>>>>>>> parent of 3f658c9... updated touchups
+=======
 >>>>>>> parent of 3f658c9... updated touchups
   m_ViewDataDictionary: {fileID: 0}
   m_ViewTransforms:
     m_KeySerializationHelper:
     - {fileID: 8504219805061022096, guid: 63c8ba9b3be5adb4ebca18af3e3dad07, type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - {fileID: -7296432010308880941, guid: 5fe26f22de6724e45be0b64035c6b478, type: 2}
     - {fileID: -2814800245485783495, guid: 7b58fbed1ae8e8e4093adec727834998, type: 2}
+=======
+>>>>>>> parent of 3f658c9... updated touchups
 =======
 >>>>>>> parent of 3f658c9... updated touchups
     m_ValueSerializationHelper:
@@ -462,6 +504,7 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
     - e00: 0.44370535
       e01: 0
@@ -495,6 +538,8 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
+=======
+>>>>>>> parent of 3f658c9... updated touchups
 =======
 >>>>>>> parent of 3f658c9... updated touchups
   m_PreviewAnimator: {fileID: 0}
@@ -570,7 +615,11 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelectedObjectID: 13396
+=======
+  m_LastSelectedObjectID: -25106
+>>>>>>> parent of 3f658c9... updated touchups
 =======
   m_LastSelectedObjectID: -25106
 >>>>>>> parent of 3f658c9... updated touchups
@@ -622,11 +671,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 7.2000003
     y: 525.60004
     width: 1237
     height: 253
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     x: 6.5
     y: 532.5
     width: 1208
@@ -653,7 +705,11 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: 64
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Josh\Documents\GitHub\Escape\escape\escape
+=======
+  m_LastProjectPath: C:\Users\anast\OneDrive\Desktop\Group 2 Hallway hopefully\Escape\escape\escape
+>>>>>>> parent of 3f658c9... updated touchups
 =======
   m_LastProjectPath: C:\Users\anast\OneDrive\Desktop\Group 2 Hallway hopefully\Escape\escape\escape
 >>>>>>> parent of 3f658c9... updated touchups
@@ -662,9 +718,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: b0330000
     m_LastClickedID: 13232
     m_ExpandedIDs: 00000000b0330000423400008a3d000000ca9a3b
+=======
+    m_SelectedIDs: 12370000
+    m_LastClickedID: 14098
+    m_ExpandedIDs: 00000000123700009e370000703e000000ca9a3b
+>>>>>>> parent of 3f658c9... updated touchups
 =======
     m_SelectedIDs: 12370000
     m_LastClickedID: 14098
@@ -698,7 +760,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b0330000423400008a3d0000
+=======
+    m_ExpandedIDs: 00000000123700009e370000703e0000
+>>>>>>> parent of 3f658c9... updated touchups
 =======
     m_ExpandedIDs: 00000000123700009e370000703e0000
 >>>>>>> parent of 3f658c9... updated touchups
@@ -730,8 +796,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000202d00009e320000d46e00005c300000
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     m_ExpandedInstanceIDs: c6230000202d00009e320000d46e0000
 >>>>>>> parent of 3f658c9... updated touchups
     m_RenameOverlay:
@@ -783,11 +852,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1244
     y: 80.8
     width: 283
     height: 698
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     x: 1214.5
     y: 78.5
     width: 277
@@ -826,6 +898,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 7.2000003
     y: 80.8
     width: 202
@@ -838,6 +911,8 @@ MonoBehaviour:
       m_LastClickedID: 14394
       m_ExpandedIDs: 9aecffff623a00007e3a0000
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     x: 6.5
     y: 78.5
     width: 210
@@ -849,6 +924,9 @@ MonoBehaviour:
       m_SelectedIDs: 2c3b0000
       m_LastClickedID: 15148
       m_ExpandedIDs: 42e8ffff243d0000
+<<<<<<< HEAD
+>>>>>>> parent of 3f658c9... updated touchups
+=======
 >>>>>>> parent of 3f658c9... updated touchups
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -895,11 +973,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 209.6
     y: 80.8
     width: 1033
     height: 426
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     x: 216.5
     y: 78.5
     width: 490
@@ -917,9 +998,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 69.5, y: 36.199997, z: 0}
     speed: 2
     m_Value: {x: 69.5, y: 36.199997, z: 0}
+=======
+    m_Target: {x: -412.0879, y: -246.05481, z: -380.672}
+    speed: 2
+    m_Value: {x: -412.0879, y: -246.05481, z: -380.672}
+>>>>>>> parent of 3f658c9... updated touchups
 =======
     m_Target: {x: -412.0879, y: -246.05481, z: -380.672}
     speed: 2
@@ -954,6 +1041,7 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.14373285, y: -0.49147993, z: 0.08254602, w: -0.8550307}
     speed: 2
     m_Value: {x: -0.14170086, y: -0.4992547, z: 0.08308303, w: -0.8507425}
@@ -961,6 +1049,15 @@ MonoBehaviour:
     m_Target: 228.5057
     speed: 2
     m_Value: 573.38654
+=======
+    m_Target: {x: 0.106151536, y: -0.8842275, z: 0.2447101, w: 0.38348842}
+    speed: 2
+    m_Value: {x: 0.10614768, y: -0.8841954, z: 0.2447012, w: 0.38347447}
+  m_Size:
+    m_Target: 1026.2332
+    speed: 2
+    m_Value: 1074.5897
+>>>>>>> parent of 3f658c9... updated touchups
 =======
     m_Target: {x: 0.106151536, y: -0.8842275, z: 0.2447101, w: 0.38348842}
     speed: 2
@@ -1017,11 +1114,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 210
     y: 81
     width: 1044
     height: 440
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     x: 708.5
     y: 78.5
     width: 504
@@ -1040,15 +1140,21 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -522
     m_HBaseRangeMax: 522
     m_VBaseRangeMin: -211.5
     m_VBaseRangeMax: 211.5
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
     m_HBaseRangeMin: -126
     m_HBaseRangeMax: 126
     m_VBaseRangeMin: -104.5
     m_VBaseRangeMax: 104.5
+<<<<<<< HEAD
+>>>>>>> parent of 3f658c9... updated touchups
+=======
 >>>>>>> parent of 3f658c9... updated touchups
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -1068,15 +1174,21 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1044
       height: 423
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 522, y: 211.5}
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
       width: 504
       height: 418
     m_Scale: {x: 2, y: 2}
     m_Translation: {x: 252, y: 209}
+<<<<<<< HEAD
+>>>>>>> parent of 3f658c9... updated touchups
+=======
 >>>>>>> parent of 3f658c9... updated touchups
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -1085,22 +1197,32 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -522
       y: -211.5
       width: 1044
       height: 423
 =======
+=======
+>>>>>>> parent of 3f658c9... updated touchups
       x: -126
       y: -104.5
       width: 252
       height: 209
+<<<<<<< HEAD
+>>>>>>> parent of 3f658c9... updated touchups
+=======
 >>>>>>> parent of 3f658c9... updated touchups
     m_MinimalGUI: 1
   m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1044, y: 440}
+=======
+  m_LastWindowPixelSize: {x: 1008, y: 870}
+>>>>>>> parent of 3f658c9... updated touchups
 =======
   m_LastWindowPixelSize: {x: 1008, y: 870}
 >>>>>>> parent of 3f658c9... updated touchups
