@@ -5,7 +5,7 @@ using UnityEngine;
 public class AIFull : MonoBehaviour
 {
     public int currentRandomPoint;
-    private NavMeshAgent navMesh;
+    private UnityEngine.AI.NavMeshAgent navMesh;
     protected Animator animator;
 
     /*private float playerDist, randomPointDist;
@@ -24,7 +24,7 @@ public class AIFull : MonoBehaviour
     void Start()
     {
         currentRandomPoint = Random.Range(0, randomPoints.Length);
-        navMesh = transform.GetComponent<NavMeshAgent>();
+        navMesh = transform.GetComponent<UnityEngine.AI.NavMeshAgent>();
         animator = GetComponent<Animator>();
        
     }
